@@ -1,0 +1,32 @@
+{
+  "id": "bc3f4fb9-ba83-4ff0-997a-a52fb78ea714",
+  "type": "button",
+  "tag": "button",
+  "name": "Get started",
+  "parent": "b22e301f-49db-441c-bff4-7e31eb0b3111",
+  "order": "l",
+  "createdAt": "2026-11-17T04:24:47.077Z",
+  "props": {
+    "text": "Get started",
+    "data-codecaine-id": "5ac42bcd-2dd3-4ccf-90fc-11580a56cefd"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "paddingTop": 12,
+    "paddingBottom": 12,
+    "paddingLeft": 22,
+    "paddingRight": 22,
+    "backgroundColor": "#1c1917",
+    "color": "#ffffff",
+    "borderRadius": 10,
+    "fontSize": 15,
+    "fontWeight": "500",
+    "borderWidth": 0,
+    "borderStyle": "solid",
+    "borderColor": "#e7e5e4"
+  },
+  "updatedAt": "2026-11-17T04:24:47.077Z"
+}

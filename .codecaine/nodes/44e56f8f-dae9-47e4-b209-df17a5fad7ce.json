@@ -1,0 +1,24 @@
+{
+  "id": "44e56f8f-dae9-47e4-b209-df17a5fad7ce",
+  "type": "section",
+  "tag": "div",
+  "name": "Actions",
+  "parent": "2e7845bf-34d6-422c-a2b5-345a73412b8c",
+  "order": "l",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "data-codecaine-id": "0ee7e2eb-0713-4b95-b299-05c6ae095502"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "display": "flex",
+    "flexDirection": "row",
+    "gap": 14,
+    "alignItems": "center",
+    "justifyContent": "flex-start"
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

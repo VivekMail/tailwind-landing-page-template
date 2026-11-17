@@ -1,0 +1,23 @@
+{
+  "id": "abfbffd9-0bff-4b90-a55f-d55e55d181d6",
+  "type": "text",
+  "tag": "span",
+  "parent": "c4f0b9b7-9a9c-4d37-991a-f9d04d7fd61a",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "text": "Read the release notes →",
+    "data-codecaine-id": "3108f708-6f1d-4d73-92f4-3c6d6be5a792"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 14,
+    "lineHeight": 1.5,
+    "color": "#ffffff",
+    "fontWeight": "600"
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

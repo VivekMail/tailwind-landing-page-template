@@ -1,0 +1,23 @@
+{
+  "id": "7c94d24a-ff9a-4718-9253-533ffcc83f15",
+  "type": "text",
+  "tag": "span",
+  "parent": "9f5db663-c81d-4e18-b107-35b54b3da8b4",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:48.848Z",
+  "props": {
+    "text": "Acme",
+    "data-codecaine-id": "0a890844-7bd3-44f2-88b7-7bce635d4a22"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 18,
+    "lineHeight": 1.5,
+    "color": "#1c1917",
+    "fontWeight": "600"
+  },
+  "updatedAt": "2026-11-17T04:24:48.848Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1738cab8-a61b-477f-bb26-5907e5064487",
+  "type": "text",
+  "tag": "span",
+  "parent": "44e56f8f-dae9-47e4-b209-df17a5fad7ce",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "text": "Sign in",
+    "data-codecaine-id": "0ea9d99d-a381-4a04-9cbc-dc723ce99aa8"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 15,
+    "lineHeight": 1.5,
+    "color": "#1c1917",
+    "fontWeight": "500"
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

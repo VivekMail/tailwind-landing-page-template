@@ -1,0 +1,21 @@
+{
+  "id": "27b14648-ac1a-471e-88d8-3548e4caf7ad",
+  "type": "frame",
+  "tag": "div",
+  "name": "Spacer",
+  "parent": "b22e301f-49db-441c-bff4-7e31eb0b3111",
+  "order": "G",
+  "createdAt": "2026-11-17T04:24:47.077Z",
+  "props": {
+    "data-codecaine-id": "8dd5c4a7-17da-4b25-9ee3-5cb53b6737c2"
+  },
+  "sizing": {
+    "width": "fill",
+    "height": "fixed"
+  },
+  "style": {
+    "height": 1,
+    "backgroundColor": "transparent"
+  },
+  "updatedAt": "2026-11-17T04:24:47.077Z"
+}

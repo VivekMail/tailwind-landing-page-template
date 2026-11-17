@@ -1,0 +1,22 @@
+{
+  "id": "04847860-e179-4fbe-a7ad-eeb58d420d0d",
+  "type": "text",
+  "tag": "span",
+  "parent": "0704df16-2cd7-45be-ae59-edac6f8963c3",
+  "order": "l",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "text": "Changelog",
+    "data-codecaine-id": "9f97b754-0954-4bfe-ad20-c0b276b0604c"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 15,
+    "lineHeight": 1.5,
+    "color": "#57534e"
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

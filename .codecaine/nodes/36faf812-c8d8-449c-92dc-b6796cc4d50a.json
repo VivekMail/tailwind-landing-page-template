@@ -1,0 +1,24 @@
+{
+  "id": "36faf812-c8d8-449c-92dc-b6796cc4d50a",
+  "type": "text",
+  "tag": "span",
+  "name": "Label",
+  "parent": "3d03c78f-9d15-413c-bfaa-a77d554a67e8",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "text": "New",
+    "data-codecaine-id": "b270104b-15d5-4716-8527-1a710440a83f"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 12,
+    "lineHeight": 1.5,
+    "color": "#6d5efc",
+    "fontWeight": "600"
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

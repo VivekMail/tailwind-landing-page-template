@@ -1,0 +1,32 @@
+{
+  "id": "b1f36cde-8bc8-462d-9426-06f178834e46",
+  "type": "button",
+  "tag": "button",
+  "name": "Start free",
+  "parent": "44e56f8f-dae9-47e4-b209-df17a5fad7ce",
+  "order": "l",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "text": "Start free",
+    "data-codecaine-id": "05fe3902-3015-49c4-b3dc-a829d15f9187"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "paddingTop": 12,
+    "paddingBottom": 12,
+    "paddingLeft": 22,
+    "paddingRight": 22,
+    "backgroundColor": "#1c1917",
+    "color": "#ffffff",
+    "borderRadius": 10,
+    "fontSize": 15,
+    "fontWeight": "500",
+    "borderWidth": 0,
+    "borderStyle": "solid",
+    "borderColor": "#e7e5e4"
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

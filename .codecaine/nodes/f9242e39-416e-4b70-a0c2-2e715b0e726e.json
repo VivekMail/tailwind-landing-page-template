@@ -1,0 +1,22 @@
+{
+  "id": "f9242e39-416e-4b70-a0c2-2e715b0e726e",
+  "type": "text",
+  "tag": "span",
+  "parent": "0fe8fd84-1003-4157-9aec-75564901ac13",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:47.077Z",
+  "props": {
+    "text": "Pricing",
+    "data-codecaine-id": "7cac1b4a-792b-4fdd-8cc5-a485878b8964"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 15,
+    "lineHeight": 1.5,
+    "color": "#57534e"
+  },
+  "updatedAt": "2026-11-17T04:24:47.077Z"
+}

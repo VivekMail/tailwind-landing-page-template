@@ -1,0 +1,36 @@
+{
+  "id": "1cd7b6ae-ea9c-4ac1-b0a1-918a69691523",
+  "type": "section",
+  "tag": "div",
+  "name": "Centred navigation",
+  "parent": "1318aeab-896b-49ff-8138-4190a50d4b92",
+  "order": "x",
+  "createdAt": "2026-11-17T04:24:48.848Z",
+  "props": {
+    "data-codecaine-id": "e3954661-a975-4693-9855-4bd2f29022e6"
+  },
+  "sizing": {
+    "width": "fixed",
+    "height": "hug"
+  },
+  "style": {
+    "position": "absolute",
+    "left": 0,
+    "top": 1306.921875,
+    "width": 1200,
+    "backgroundColor": "#ffffff",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": 14,
+    "alignItems": "center",
+    "justifyContent": "flex-start",
+    "paddingTop": 20,
+    "paddingBottom": 20,
+    "paddingLeft": 40,
+    "paddingRight": 40,
+    "borderBottomWidth": 1,
+    "borderBottomStyle": "solid",
+    "borderBottomColor": "#e7e5e4"
+  },
+  "updatedAt": "2026-11-17T04:24:48.848Z"
+}

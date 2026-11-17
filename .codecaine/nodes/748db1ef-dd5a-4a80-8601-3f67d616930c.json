@@ -1,0 +1,33 @@
+{
+  "id": "748db1ef-dd5a-4a80-8601-3f67d616930c",
+  "type": "section",
+  "tag": "div",
+  "name": "Announcement + navigation",
+  "parent": "1318aeab-896b-49ff-8138-4190a50d4b92",
+  "order": "z",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "data-codecaine-id": "c753b21c-da8b-49b5-af05-098510e4c122"
+  },
+  "sizing": {
+    "width": "fixed",
+    "height": "hug"
+  },
+  "style": {
+    "position": "absolute",
+    "left": 0,
+    "top": 1414.421875,
+    "width": 1200,
+    "backgroundColor": "#ffffff",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": 0,
+    "alignItems": "flex-start",
+    "justifyContent": "flex-start",
+    "paddingTop": 0,
+    "paddingBottom": 0,
+    "paddingLeft": 0,
+    "paddingRight": 0
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

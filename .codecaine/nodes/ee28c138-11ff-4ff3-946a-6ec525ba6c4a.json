@@ -1,0 +1,22 @@
+{
+  "id": "ee28c138-11ff-4ff3-946a-6ec525ba6c4a",
+  "type": "text",
+  "tag": "span",
+  "parent": "7e07922a-fdd3-4975-bf41-d42660ba80ca",
+  "order": "l",
+  "createdAt": "2026-11-17T04:24:48.848Z",
+  "props": {
+    "text": "Contact",
+    "data-codecaine-id": "eed64f65-7b56-4ec4-998d-c1af1f41b245"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 15,
+    "lineHeight": 1.5,
+    "color": "#57534e"
+  },
+  "updatedAt": "2026-11-17T04:24:48.848Z"
+}

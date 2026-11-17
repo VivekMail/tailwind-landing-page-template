@@ -1,0 +1,24 @@
+{
+  "id": "b22e301f-49db-441c-bff4-7e31eb0b3111",
+  "type": "section",
+  "tag": "div",
+  "name": "Bar",
+  "parent": "855066d0-105b-41bf-a677-1895d77aa67f",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:47.077Z",
+  "props": {
+    "data-codecaine-id": "6c80bc07-b084-491f-8cef-16a0106aa963"
+  },
+  "sizing": {
+    "width": "fill",
+    "height": "hug"
+  },
+  "style": {
+    "display": "flex",
+    "flexDirection": "row",
+    "gap": 24,
+    "alignItems": "center",
+    "justifyContent": "flex-start"
+  },
+  "updatedAt": "2026-11-17T04:24:47.077Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "541d4745-e84a-40bb-8abd-3b1a50c5f102",
+  "type": "section",
+  "tag": "div",
+  "name": "Search",
+  "parent": "44e56f8f-dae9-47e4-b209-df17a5fad7ce",
+  "order": "G",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "data-codecaine-id": "8fd3fa85-b30a-40fc-b3e3-cc1cb8c4eb60"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "display": "flex",
+    "flexDirection": "row",
+    "gap": 24,
+    "alignItems": "center",
+    "justifyContent": "space-between",
+    "paddingTop": 8,
+    "paddingBottom": 8,
+    "paddingLeft": 12,
+    "paddingRight": 12,
+    "backgroundColor": "#f5f5f4",
+    "borderRadius": 9,
+    "borderWidth": 1,
+    "borderStyle": "solid",
+    "borderColor": "#e7e5e4",
+    "width": 190
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

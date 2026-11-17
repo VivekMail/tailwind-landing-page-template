@@ -1,0 +1,23 @@
+{
+  "id": "ef2a9337-18dd-44b5-8fab-bdbbee60976d",
+  "type": "text",
+  "tag": "span",
+  "parent": "541d4745-e84a-40bb-8abd-3b1a50c5f102",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "text": "⌘K",
+    "data-codecaine-id": "19478f1f-9b19-4beb-80c3-6472c34050ef"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 12,
+    "lineHeight": 1.5,
+    "color": "#a8a29e",
+    "fontFamily": "ui-monospace, SFMono-Regular, Menlo, monospace"
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

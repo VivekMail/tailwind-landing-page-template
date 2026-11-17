@@ -1,0 +1,29 @@
+{
+  "id": "c4f0b9b7-9a9c-4d37-991a-f9d04d7fd61a",
+  "type": "section",
+  "tag": "div",
+  "name": "Announcement",
+  "parent": "748db1ef-dd5a-4a80-8601-3f67d616930c",
+  "order": "G",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "data-codecaine-id": "3ad06995-ce8b-49ea-9bb9-fb7eca216b78"
+  },
+  "sizing": {
+    "width": "fill",
+    "height": "hug"
+  },
+  "style": {
+    "display": "flex",
+    "flexDirection": "row",
+    "gap": 12,
+    "alignItems": "center",
+    "justifyContent": "center",
+    "paddingTop": 9,
+    "paddingBottom": 9,
+    "paddingLeft": 40,
+    "paddingRight": 40,
+    "backgroundImage": "linear-gradient(135deg, #6d5efc 0%, #0d99ff 100%)"
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

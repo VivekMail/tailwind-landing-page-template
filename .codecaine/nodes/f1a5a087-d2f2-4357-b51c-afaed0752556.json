@@ -1,0 +1,23 @@
+{
+  "id": "f1a5a087-d2f2-4357-b51c-afaed0752556",
+  "type": "frame",
+  "tag": "div",
+  "name": "Icon",
+  "parent": "bf29ede0-ca55-4d22-b1e7-0c4eef6e9866",
+  "order": "G",
+  "createdAt": "2026-11-17T04:24:50.662Z",
+  "props": {
+    "data-codecaine-id": "a7dbe27f-70b1-4382-bfa4-31f3a79f026d"
+  },
+  "sizing": {
+    "width": "fixed",
+    "height": "fixed"
+  },
+  "style": {
+    "width": 28,
+    "height": 28,
+    "backgroundColor": "#1c1917",
+    "borderRadius": 10
+  },
+  "updatedAt": "2026-11-17T04:24:50.662Z"
+}

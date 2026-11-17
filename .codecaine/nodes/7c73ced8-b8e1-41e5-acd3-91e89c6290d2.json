@@ -1,0 +1,24 @@
+{
+  "id": "7c73ced8-b8e1-41e5-acd3-91e89c6290d2",
+  "type": "section",
+  "tag": "div",
+  "name": "Brand",
+  "parent": "b22e301f-49db-441c-bff4-7e31eb0b3111",
+  "order": "8",
+  "createdAt": "2026-11-17T04:24:47.077Z",
+  "props": {
+    "data-codecaine-id": "6ba68cc0-fc5a-419b-ab2c-1c3ae7084b7e"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "display": "flex",
+    "flexDirection": "row",
+    "gap": 10,
+    "alignItems": "center",
+    "justifyContent": "flex-start"
+  },
+  "updatedAt": "2026-11-17T04:24:47.077Z"
+}

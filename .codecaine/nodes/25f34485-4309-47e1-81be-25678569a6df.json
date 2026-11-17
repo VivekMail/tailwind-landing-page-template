@@ -1,0 +1,22 @@
+{
+  "id": "25f34485-4309-47e1-81be-25678569a6df",
+  "type": "text",
+  "tag": "span",
+  "parent": "7e07922a-fdd3-4975-bf41-d42660ba80ca",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:48.848Z",
+  "props": {
+    "text": "About",
+    "data-codecaine-id": "e28ecbec-1d63-4916-be37-b0c7f7638150"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 15,
+    "lineHeight": 1.5,
+    "color": "#57534e"
+  },
+  "updatedAt": "2026-11-17T04:24:48.848Z"
+}

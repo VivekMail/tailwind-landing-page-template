@@ -1,0 +1,36 @@
+{
+  "id": "5f0b08a6-309f-48ef-b475-66c60be880b2",
+  "type": "section",
+  "tag": "div",
+  "name": "Navigation",
+  "parent": "1318aeab-896b-49ff-8138-4190a50d4b92",
+  "order": "zV",
+  "createdAt": "2026-11-17T04:24:50.662Z",
+  "props": {
+    "data-codecaine-id": "1f182b00-00b1-43cb-9d7b-3d34a31af317"
+  },
+  "sizing": {
+    "width": "fixed",
+    "height": "hug"
+  },
+  "style": {
+    "position": "absolute",
+    "left": 0,
+    "top": 1534.421875,
+    "width": 1200,
+    "backgroundColor": "#ffffff",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": 16,
+    "alignItems": "flex-start",
+    "justifyContent": "flex-start",
+    "paddingTop": 18,
+    "paddingBottom": 18,
+    "paddingLeft": 40,
+    "paddingRight": 40,
+    "borderBottomWidth": 1,
+    "borderBottomStyle": "solid",
+    "borderBottomColor": "#e7e5e4"
+  },
+  "updatedAt": "2026-11-17T04:24:50.662Z"
+}

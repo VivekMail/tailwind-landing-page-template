@@ -1,0 +1,22 @@
+{
+  "id": "dbe1153b-b5ed-4dba-93d5-b121aa213caa",
+  "type": "text",
+  "tag": "span",
+  "parent": "0704df16-2cd7-45be-ae59-edac6f8963c3",
+  "order": "8",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "text": "Product ▾",
+    "data-codecaine-id": "3e13a961-d1ea-428f-a58e-fbe379f6dbd7"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 15,
+    "lineHeight": 1.5,
+    "color": "#57534e"
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

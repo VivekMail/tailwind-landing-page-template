@@ -1,0 +1,23 @@
+{
+  "id": "b3253079-b433-4a7d-b903-9df42d1672a8",
+  "type": "text",
+  "tag": "span",
+  "parent": "d7e36a90-abd2-4d54-a8c0-5522d6a91c1b",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:49.845Z",
+  "props": {
+    "text": "Northlight",
+    "data-codecaine-id": "19d8f17c-f64d-4a0e-95c5-71961782a5c5"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 18,
+    "lineHeight": 1.5,
+    "color": "#1c1917",
+    "fontWeight": "700"
+  },
+  "updatedAt": "2026-11-17T04:24:49.845Z"
+}

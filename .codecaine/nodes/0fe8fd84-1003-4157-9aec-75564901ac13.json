@@ -1,0 +1,24 @@
+{
+  "id": "0fe8fd84-1003-4157-9aec-75564901ac13",
+  "type": "section",
+  "tag": "div",
+  "name": "Links",
+  "parent": "b22e301f-49db-441c-bff4-7e31eb0b3111",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:47.077Z",
+  "props": {
+    "data-codecaine-id": "dcf86a0b-1ba8-466f-8d6c-b1f8c5ba5eed"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "display": "flex",
+    "flexDirection": "row",
+    "gap": 24,
+    "alignItems": "center",
+    "justifyContent": "flex-start"
+  },
+  "updatedAt": "2026-11-17T04:24:47.077Z"
+}
