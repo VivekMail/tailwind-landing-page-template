@@ -1,0 +1,44 @@
+{
+  "id": "015f042c-8b60-4d6e-a9a1-6214d8fd0b2c",
+  "type": "liveproject",
+  "tag": "div",
+  "name": "tailwind-landing-page-template",
+  "parent": "1318aeab-896b-49ff-8138-4190a50d4b92",
+  "order": "G",
+  "breakpoints": [
+    {
+      "id": "desktop",
+      "label": "Desktop",
+      "minWidth": 1280,
+      "width": 1280
+    },
+    {
+      "id": "tablet",
+      "label": "Tablet",
+      "minWidth": 800,
+      "width": 834
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile",
+      "minWidth": 0,
+      "width": 390
+    }
+  ],
+  "props": {
+    "src": "https://f1mknk2kjuobl7j3-run.codecainehq.com/",
+    "data-codecaine-id": "eed65540-ffa9-4911-8de1-0200385ba6df"
+  },
+  "sizing": {
+    "width": "fixed",
+    "height": "hug"
+  },
+  "style": {
+    "position": "absolute",
+    "left": 0,
+    "top": 0,
+    "width": 1280,
+    "height": 900,
+    "backgroundColor": "#ffffff"
+  }
+}
