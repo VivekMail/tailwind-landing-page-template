@@ -1,0 +1,33 @@
+{
+  "id": "aa26920e-722c-4786-8161-93ecf246fb52",
+  "type": "section",
+  "tag": "div",
+  "name": "Feature, split",
+  "parent": "1318aeab-896b-49ff-8138-4190a50d4b92",
+  "order": "zl",
+  "createdAt": "2026-11-17T04:24:55.640Z",
+  "props": {
+    "data-codecaine-id": "ea19ee44-abb1-4c5f-bbcf-ae2b9a5e6ffd"
+  },
+  "sizing": {
+    "width": "fixed",
+    "height": "hug"
+  },
+  "style": {
+    "position": "absolute",
+    "left": 0,
+    "top": 1599.421875,
+    "width": 1200,
+    "backgroundColor": "#ffffff",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": 16,
+    "alignItems": "flex-start",
+    "justifyContent": "flex-start",
+    "paddingTop": 80,
+    "paddingBottom": 80,
+    "paddingLeft": 40,
+    "paddingRight": 40
+  },
+  "updatedAt": "2026-11-17T04:24:55.640Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1b929b51-0905-414b-a173-5d031eb6db43",
+  "type": "section",
+  "tag": "div",
+  "name": "Copy",
+  "parent": "c62f1903-f3c5-495e-b7f2-ef098f5131d5",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:55.640Z",
+  "props": {
+    "data-codecaine-id": "6296a221-32c3-4a0f-9b63-1ad36a47c691"
+  },
+  "sizing": {
+    "width": "fill",
+    "height": "hug"
+  },
+  "style": {
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": 16,
+    "alignItems": "flex-start",
+    "justifyContent": "flex-start"
+  },
+  "updatedAt": "2026-11-17T04:24:55.640Z"
+}

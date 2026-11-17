@@ -1,0 +1,32 @@
+{
+  "id": "e880e372-c432-4dc7-8d10-7bd113f1bcbd",
+  "type": "button",
+  "tag": "button",
+  "name": "Read more",
+  "parent": "2711cf43-14e6-4264-9193-525d5844e628",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:55.640Z",
+  "props": {
+    "text": "Read more",
+    "data-codecaine-id": "3f804bd9-aec1-449e-9e2c-c579a35fb5ab"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "paddingTop": 12,
+    "paddingBottom": 12,
+    "paddingLeft": 22,
+    "paddingRight": 22,
+    "backgroundColor": "#ffffff",
+    "color": "#1c1917",
+    "borderRadius": 10,
+    "fontSize": 15,
+    "fontWeight": "500",
+    "borderWidth": 1,
+    "borderStyle": "solid",
+    "borderColor": "#e7e5e4"
+  },
+  "updatedAt": "2026-11-17T04:24:55.640Z"
+}

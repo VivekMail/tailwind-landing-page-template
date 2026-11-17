@@ -1,0 +1,25 @@
+{
+  "id": "b560d787-424b-41fc-8208-35e1a3105017",
+  "type": "frame",
+  "tag": "div",
+  "name": "Media",
+  "parent": "c62f1903-f3c5-495e-b7f2-ef098f5131d5",
+  "order": "G",
+  "createdAt": "2026-11-17T04:24:55.640Z",
+  "props": {
+    "data-codecaine-id": "db704a45-e5fc-4397-b9dc-91555952fa5f"
+  },
+  "sizing": {
+    "width": "fill",
+    "height": "fixed"
+  },
+  "style": {
+    "height": 300,
+    "backgroundColor": "#f5f5f4",
+    "borderRadius": 14,
+    "borderWidth": 1,
+    "borderStyle": "solid",
+    "borderColor": "#e7e5e4"
+  },
+  "updatedAt": "2026-11-17T04:24:55.640Z"
+}

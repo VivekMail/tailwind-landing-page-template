@@ -1,0 +1,23 @@
+{
+  "id": "dc484d07-3920-42d5-9a4d-d443ed911c56",
+  "type": "text",
+  "tag": "span",
+  "name": "Body",
+  "parent": "1b929b51-0905-414b-a173-5d031eb6db43",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:55.640Z",
+  "props": {
+    "text": "Give the single most important feature the room it deserves.",
+    "data-codecaine-id": "322a71e5-aeb0-4790-ad71-321ce043fc78"
+  },
+  "sizing": {
+    "width": "fill",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 17,
+    "lineHeight": 1.6,
+    "color": "#57534e"
+  },
+  "updatedAt": "2026-11-17T04:24:55.640Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c62f1903-f3c5-495e-b7f2-ef098f5131d5",
+  "type": "section",
+  "tag": "div",
+  "name": "Split",
+  "parent": "aa26920e-722c-4786-8161-93ecf246fb52",
+  "order": "V",
+  "createdAt": "2026-11-17T04:24:55.640Z",
+  "props": {
+    "data-codecaine-id": "9e9dbf78-b57f-4ca5-b405-68ec0ae230a0"
+  },
+  "sizing": {
+    "width": "fill",
+    "height": "hug"
+  },
+  "style": {
+    "display": "flex",
+    "flexDirection": "row",
+    "gap": 56,
+    "alignItems": "center",
+    "justifyContent": "flex-start"
+  },
+  "updatedAt": "2026-11-17T04:24:55.640Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b51fa730-9fcd-488c-a868-9c4735c6fa8a",
+  "type": "text",
+  "tag": "span",
+  "name": "Eyebrow",
+  "parent": "1b929b51-0905-414b-a173-5d031eb6db43",
+  "order": "8",
+  "createdAt": "2026-11-17T04:24:55.640Z",
+  "props": {
+    "text": "WHY IT WORKS",
+    "data-codecaine-id": "3a794be7-d08a-4deb-9e47-0905c438b3a6"
+  },
+  "sizing": {
+    "width": "hug",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 12,
+    "lineHeight": 1.5,
+    "color": "#0d99ff",
+    "fontWeight": "600",
+    "letterSpacing": 1.4
+  },
+  "updatedAt": "2026-11-17T04:24:55.640Z"
+}

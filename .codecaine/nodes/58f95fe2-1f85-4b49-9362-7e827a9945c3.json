@@ -1,0 +1,24 @@
+{
+  "id": "58f95fe2-1f85-4b49-9362-7e827a9945c3",
+  "type": "text",
+  "tag": "span",
+  "name": "Heading",
+  "parent": "1b929b51-0905-414b-a173-5d031eb6db43",
+  "order": "G",
+  "createdAt": "2026-11-17T04:24:55.640Z",
+  "props": {
+    "text": "A closer look at one thing",
+    "data-codecaine-id": "39492eb6-669f-4235-ac55-74f159e397cc"
+  },
+  "sizing": {
+    "width": "fill",
+    "height": "hug"
+  },
+  "style": {
+    "fontSize": 34,
+    "lineHeight": 1.15,
+    "color": "#1c1917",
+    "fontWeight": "600"
+  },
+  "updatedAt": "2026-11-17T04:24:55.640Z"
+}
