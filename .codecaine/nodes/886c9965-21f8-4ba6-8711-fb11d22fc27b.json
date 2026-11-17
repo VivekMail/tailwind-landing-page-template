@@ -17,9 +17,13 @@
     "width": 320,
     "height": 240,
     "position": "absolute",
-    "backgroundColor": "#ffffff",
+    "backgroundColor": "#a21e1e",
     "left": 1567.6238410596027,
-    "top": 273.96026490066225
+    "top": 273.96026490066225,
+    "backgroundImage": "none",
+    "backgroundRepeat": "no-repeat",
+    "backgroundSize": "auto",
+    "backgroundPosition": "0% 0%"
   },
-  "updatedAt": "2026-11-17T04:23:12.623Z"
+  "updatedAt": "2026-11-17T05:35:17.113Z"
 }
